@@ -6,7 +6,7 @@
 
 [![Live](https://img.shields.io/badge/Live-spacesangels.com-gold?style=for-the-badge)](https://spacesangels.com)
 [![Version](https://img.shields.io/badge/v0.33.0--dev-blue?style=for-the-badge)]()
-[![Tests](https://img.shields.io/badge/2%2C482_tests-brightgreen?style=for-the-badge)]()
+[![Tests](https://img.shields.io/badge/4%2C880_tests-brightgreen?style=for-the-badge)]()
 [![Constitutional](https://img.shields.io/badge/AI-Constitutional-gold?style=for-the-badge)]()
 
 *What if AI actually liked people?*
@@ -39,7 +39,7 @@ Every transaction. Automatic. Immediate. No invoicing.
 
 ## LEO — Your Guardian Angel
 
-LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onboarding. 88+ tools. Manages both sides of every transaction. Speaks on the web, on the phone (Vapi), on Discord, and through the API (MCP).
+LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onboarding. 117 tools. Manages both sides of every transaction. Speaks on the web, on the phone (Vapi), on Discord, and through the API (MCP).
 
 **LEO manages:**
 - Product creation, inventory, and order fulfillment
@@ -53,12 +53,12 @@ LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onbo
 
 | Layer | What's There |
 |-------|-------------|
-| **Core** | 42 collections, 15 engines, 52+ API endpoints, multi-tenant architecture |
-| **AI** | 88+ LEO tools, smart 4-tier model routing, constitutional prompt, SSE streaming |
+| **Core** | 42 collections, 15 engines, 77 API endpoints, multi-tenant architecture |
+| **AI** | 117 LEO tools, smart 4-tier model routing, constitutional prompt, SSE streaming |
 | **Commerce** | Products, cart, orders, Angel Token queue, Stripe Direct Charges, booking system |
 | **Federation** | Trust chain, pheromone grid, workload engine, dispatch routing, pulse API, governance |
 | **Connectors** | Discord bots (multi-tenant), Vapi voice AI, email bridge, MCP protocol |
-| **Testing** | 2,482 unit tests + 14 E2E suites across 53 test files |
+| **Testing** | 4,880 unit tests + 14 E2E suites across 216 test files |
 
 ## Repositories
 
@@ -69,7 +69,7 @@ LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onbo
 ## Tech Stack
 
 **Backend:** Payload CMS 3.77, Next.js 16, PostgreSQL, TypeScript strict
-**AI:** Google Gemini 3.1 Pro + Claude Sonnet 4.6 + OpenRouter
+**AI:** Google Gemini 2.5 Pro + Claude Sonnet 4.6 + OpenRouter
 **Frontend:** React 19, Tailwind CSS 4, Shadcn UI, Radix Primitives
 **Real-time:** Server-Sent Events, LiveKit (voice/video)
 **Payments:** Stripe Connect Direct Charges with constitutional splits
