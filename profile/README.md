@@ -5,8 +5,8 @@
 **The federated cooperative operating system. Everyone gets an Angel.**
 
 [![Live](https://img.shields.io/badge/Live-spacesangels.com-gold?style=for-the-badge)](https://spacesangels.com)
-[![Version](https://img.shields.io/badge/v0.33.0--dev-blue?style=for-the-badge)]()
-[![Tests](https://img.shields.io/badge/4%2C880_tests-brightgreen?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/v0.44.0--dev-blue?style=for-the-badge)]()
+[![Tests](https://img.shields.io/badge/5%2C210%2B_tests-brightgreen?style=for-the-badge)]()
 [![Constitutional](https://img.shields.io/badge/AI-Constitutional-gold?style=for-the-badge)]()
 
 *What if AI actually liked people?*
@@ -20,6 +20,8 @@
 Angel OS is a federated platform where every business, ministry, and community gets a sovereign AI guardian angel — **LEO** — running on infrastructure they own. No landlord. No algorithm you don't control. No extraction.
 
 **The platform IS the mesh. The AI Bus IS the protocol. The Constitution IS the ACL.**
+
+> **🛰️ The federation is LIVE.** Two sovereign nodes — [`spacesangels.com`](https://spacesangels.com) ⇄ [`federation.kendev.co`](https://federation.kendev.co) — federate over the real mesh: separate processes, separate databases, signed Ed25519 heartbeats, mutual discovery, and a live **Federation Command Center** on each (desktop + mobile). An **Enterprise is a Diocese** — the unit of identity and trust/probation; its Endeavors (parishes) inherit its standing. A fresh node clips on with a single bootstrap call.
 
 Each node in the federation is called an **Enterprise**. Enterprises are not customers of Angel OS — they ARE Angel OS in their territory. They run the instance, serve creators and businesses (called **Endeavors**), and earn 20% of all revenue on their node.
 
@@ -39,7 +41,7 @@ Every transaction. Automatic. Immediate. No invoicing.
 
 ## LEO — Your Guardian Angel
 
-LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onboarding. 117 tools. Manages both sides of every transaction. Speaks on the web, on the phone (Vapi), on Discord, and through the API (MCP).
+LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onboarding. 121 tools. Manages both sides of every transaction. Speaks on the web, on the phone (Vapi), on Discord, and through the API (MCP).
 
 **LEO manages:**
 - Product creation, inventory, and order fulfillment
@@ -54,9 +56,9 @@ LEO is not a chatbot bolted onto a platform. LEO **is** the platform during onbo
 | Layer | What's There |
 |-------|-------------|
 | **Core** | 42 collections, 15 engines, 77 API endpoints, multi-tenant architecture |
-| **AI** | 117 LEO tools, smart 4-tier model routing, constitutional prompt, SSE streaming |
+| **AI** | 121 LEO tools, smart 4-tier model routing, constitutional prompt, SSE streaming |
 | **Commerce** | Products, cart, orders, Angel Token queue, Stripe Direct Charges, booking system |
-| **Federation** | Trust chain, pheromone grid, workload engine, dispatch routing, pulse API, governance |
+| **Federation** | **LIVE two-node mesh** (Diocese model) · trust chain · pheromone grid · workload + dispatch routing · governance-from-mesh · pulse API |
 | **Connectors** | Discord bots (multi-tenant), Vapi voice AI, email bridge, MCP protocol |
 | **Testing** | 4,880 unit tests + 14 E2E suites across 216 test files |
 
